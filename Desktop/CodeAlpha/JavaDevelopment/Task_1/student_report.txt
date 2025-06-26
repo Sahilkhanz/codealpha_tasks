@@ -1,0 +1,11 @@
+====== Student Grade Summary ======
+Name: Sahil                | Grade: 95.00 | Status: Pass
+Name: Aruna                | Grade: 88.00 | Status: Pass
+Name: Akhilesh             | Grade: 75.00 | Status: Pass
+Name: Aditya               | Grade: 63.00 | Status: Pass
+Name: Ansh                 | Grade: 28.00 | Status: Fail
+
+--- Statistics ---
+Average Grade : 69.80
+Highest Grade : 95.00
+Lowest Grade  : 28.00
