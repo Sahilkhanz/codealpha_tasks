@@ -10,7 +10,8 @@ This repository contains the Java development tasks submitted as part of the **C
 
 ### ✅ **Task 1: Student Grade Tracker**
 
-**📝 Task Description:**  
+**📝 Task Description:**
+
 > Build a Java program to input and manage student grades.  
 > Calculate average, highest, and lowest scores.  
 > Use arrays or ArrayLists to store and manage data.  
@@ -18,6 +19,7 @@ This repository contains the Java development tasks submitted as part of the **C
 > Make the interface console-based or GUI-based as desired.
 
 **🛠 Features:**
+
 - Console-based student grade tracker
 - Accepts multiple student records
 - Computes average, highest, and lowest scores
@@ -28,6 +30,7 @@ This repository contains the Java development tasks submitted as part of the **C
 📤 **Output File:** `Task_1/student_report.txt`
 
 🔧 **How to Run:**
+
 ```bash
 javac StudentGradeTracker.java
 java StudentGradeTracker
@@ -35,9 +38,10 @@ java StudentGradeTracker
 
 ---
 
-### ✅ **Task 4: Hotel Reservation System (GUI)**
+### ✅ **Task 2: Hotel Reservation System (GUI)**
 
-**📝 Task Description:**  
+**📝 Task Description:**
+
 > Design a system to search, book, and manage hotel rooms.  
 > Add room categorization (e.g., Standard, Deluxe, Suite)  
 > Allow users to make and cancel reservations.  
@@ -45,6 +49,7 @@ java StudentGradeTracker
 > Use OOP + database/File I/O for storing bookings and availability.
 
 **🛠 Features:**
+
 - GUI-based Java Swing application
 - Room categories: Standard, Deluxe, Suite
 - Admin login (`admin` / `1234`)
@@ -57,6 +62,7 @@ java StudentGradeTracker
 📤 **Output File:** `Task_2/hotel_bookings.txt`
 
 🔧 **How to Run:**
+
 ```bash
 javac HotelReservationSystem.java
 java HotelReservationSystem
